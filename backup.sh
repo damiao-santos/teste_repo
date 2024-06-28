@@ -30,3 +30,4 @@ tar -czf "$BACKUP_PATH" -C "$HOME" .
 
 # Informa o nome do arquivo gerado
 echo "Backup gerado com sucesso: $BACKUP_PATH"
+echo "o backup sera apagado depois de 7 dias"
